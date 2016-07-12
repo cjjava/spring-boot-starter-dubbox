@@ -35,7 +35,7 @@
 		<developerConnection>
          scm:git:https://github.com/cjjava/spring-boot-starter-dubbox.git
       </developerConnection>
-		<url>https://github.com/cjjava/spring-boot-starter-dubbox/issues</url>
+		<url>https://github.com/cjjava/spring-boot-starter-dubbox</url>
 		<tag>v0.0.1</tag>
 	</scm>
 
