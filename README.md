@@ -1,4 +1,7 @@
 ## spring-boot-starter-dubbox
+
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.cjoop/spring-boot-starter-dubbox/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.cjoop/spring-boot-starter-dubbox)
+
 spring-boot自动集成dubbox默认配置,添加以下依赖：
 
 ```sh
